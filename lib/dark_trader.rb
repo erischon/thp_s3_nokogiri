@@ -21,3 +21,4 @@ def get_currencies
   return cryptos
 end
 
+get_currencies()
